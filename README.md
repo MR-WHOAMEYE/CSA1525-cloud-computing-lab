@@ -55,6 +55,7 @@ This repository contains a collection of five cloud-based Software-as-a-Service 
 ### 🛫 All Routes
 ![All Routes](cloud/Flight_Reservation10.png)
 
+---
 ## 2. Property Buying & Rental System 🏠
 A real estate management system
 
@@ -78,6 +79,8 @@ A real estate management system
 ![Property Listings Form](cloud/Property_Buying&Rental.png)
 ### 📊 All Property Listings Report
 ![All Property Listings](cloud/Property_Buying&Rental2.png)
+
+---
 
 ## 3. Car Booking Reservation System 🚗
 A comprehensive car rental and booking management system.

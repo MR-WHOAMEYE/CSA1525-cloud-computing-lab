@@ -34,6 +34,26 @@ This repository contains a collection of five cloud-based Software-as-a-Service 
 - Real-time seat availability
 - Multiple airport support
 - Interactive route visualization
+### Dashboard
+  ![dashboard](cloud/Flight_Reservation1.png)
+### 🎫 All Boarding Passes Report
+![All Boarding Passes](cloud/Flight_Reservation2.png)
+### 🛫 All Flight Routes Report
+![All Flight Routes](cloud/Flight_Reservation3.png)
+### 🚧 Flight Statuses Board
+![Flight Statuses](cloud/Flight_Reservation4.png)
+### 💳 All Payments Report
+![All Payments](cloud/Flight_Reservation5.png)
+### 📝 All Bookings
+![All Bookings](cloud/Flight_Reservation6.png)
+### 👤 All Passengers
+![All Passengers](cloud/Flight_Reservation7.png)
+### ✈️ All Flights
+![All Flights](cloud/Flight_Reservation8.png)
+### 🪑 All Seats
+![All Seats](cloud/Flight_Reservation9.png)
+### 🛫 All Routes
+![All Routes](cloud/Flight_Reservation10.png)
 
 ## 2. Property Buying & Rental System 🏠
 A real estate management system

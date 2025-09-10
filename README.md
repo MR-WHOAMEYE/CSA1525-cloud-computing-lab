@@ -1,5 +1,5 @@
 # CSA1525-cloud-computing-lab
-# Cloud-Based SaaS Applications Collection 🚀
+
 
 <div align="center">
 

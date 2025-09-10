@@ -17,7 +17,7 @@ This repository contains a collection of five cloud-based Software-as-a-Service 
 
 ## Applications Overview
 
-### 1. Flight Reservation System ✈️
+## 1. Flight Reservation System ✈️
  A comprehensive flight booking system that handles both domestic and international flights.
 
 
@@ -35,7 +35,7 @@ This repository contains a collection of five cloud-based Software-as-a-Service 
 - Multiple airport support
 - Interactive route visualization
 
-### 2. Property Buying & Rental System 🏠
+## 2. Property Buying & Rental System 🏠
 A real estate management system
 
 **Key Features:**
@@ -54,44 +54,44 @@ A real estate management system
   - Location details
   - Property type
   - Rental agreement status
+### 🏡 Property Listings Form
+![Property Listings Form](cloud/Property_Buying&Rental.png)
+### 📊 All Property Listings Report
+![All Property Listings](cloud/Property_Buying&Rental2.png)
 
-### 3. Car Booking Reservation System 🚗
+## 3. Car Booking Reservation System 🚗
 A comprehensive car rental and booking management system.
 
 **Key Features:**
-- Multiple booking types:
-  - City taxi
-  - Outstation
-  - Rental
-  - Package-based bookings
-- Search functionality:
-  - Location-based search
-  - Available cabs nearby
-- Booking options:
-  - Hourly packages
-  - Daily packages
-  - Custom duration
-- Real-time tracking
-- Multiple vehicle categories
-- Price estimation
+- Employee ID, email, mobile, and gender capture
+- Pickup and destination address with full details (city, state, postal code)
+- Travel date and pickup time selection
+- Outstation trip support
+- Centralized booking report with search and filtering
+ ### 🚗 Car Booking Form
+   ![Car Booking Form](cloud/car_booking.png)
+ ### Car Bookings Report
+   ![Bookings Table](cloud/car_booking2.png)
 
-### 4. SIMATS Library Management System 📚
+## 4. SIMATS Library Management System 📚
 A digital library management system for SIMATS library.
 
 **Key Features:**
 - Book management:
   - Title tracking
   - Author information
-  - Publication details
-  - Edition tracking
   - Year of publication
 - Inventory management:
   - Number of copies
   - Rack number allocation
   - Status tracking (Available/Taken)
+ ### 📚 Library Book Entry Form
+   ![Library Form](cloud/Library_book.png)
+### 📋 SIMATS Library Report
+![Library Report](cloud/Library_book2.png)
 
 
-### 5. Mark Sheet Processing System 📊
+## 5. Mark Sheet Processing System 📊
 An academic grade management and processing system.
 **Key Features:**
 - Student information:
@@ -106,8 +106,10 @@ An academic grade management and processing system.
   - Average calculation
   - Percentage computation
   - Rank determination
-- Performance analytics
-- Grade card generation
+ ### 📝 Mark Sheet Entry Form
+   ![Mark Sheet Form](cloud/Mark_Sheet.png)
+### 📋 All Mark Sheets Report
+![All Mark Sheets](cloud/Mark_Sheet2.png)
 
 
 

@@ -7,7 +7,6 @@
 [![saas](https://img.shields.io/badge/SaaS-Applications-blue.svg)](https://en.wikipedia.org/wiki/Software_as_a_service)
 [![zoho](https://img.shields.io/badge/Built%20with-Zoho%20Creator-orange.svg)](https://www.zoho.com/creator/)
 
-<img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31b4f55ea291788834510268/loading.gif" width="140" alt="Loading">
 
 </div>
 
